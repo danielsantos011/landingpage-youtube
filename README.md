@@ -14,6 +14,10 @@ Este projeto é uma landing page simples desenvolvida com foco em iniciantes que
 - Seções principais: cabeçalho, destaque, chamada para ação e rodapé
 - Design limpo e organizado
 
+Este projeto foi inspirado no conteúdo do canal [Alexandre Saints
+](https://youtu.be/edDCEK5QWE8?si=Vd1rhkPY17TY5Pv6). A proposta foi recriar o projeto com base no aprendizado e adaptá-lo com meu toque pessoal.
+
+
 ## 📂 Como usar
 1. Clone este repositório:
 ```bash
