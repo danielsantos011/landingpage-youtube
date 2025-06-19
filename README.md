@@ -17,4 +17,4 @@ Este projeto é uma landing page simples desenvolvida com foco em iniciantes que
 ## 📂 Como usar
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seuusuario/landing-page-basica.git
+https://github.com/danielsantos011/landingpage-youtube.git
